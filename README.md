@@ -9,3 +9,6 @@ The implementation was done using the Java programming language and the NetBeans
 
 # Comments
 The server runs on the command line. The client uses graphical user interface.
+
+# License
+The Chat uses [MIT License](./LICENSE).
